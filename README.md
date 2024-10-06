@@ -1,4 +1,3 @@
-# MERNa server including a template for Node.js and Express hosted on Microsoft Azure
 DICE-NODEJS
 
 Credits:
